@@ -1,20 +1,21 @@
 <div align="center">
 
-# 👋 Hi, I'm Kushan Garg
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Kushan%20Garg&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-### Full-Stack Developer • Problem Solver • Tech Enthusiast
+<h2>Full-Stack Developer 🚀</h2>
 
-Building modern web applications and turning ideas into real-world products.
+<p>
+Building modern web applications that solve real-world problems.
+</p>
 
-<br>
-
-<a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="YOUR_PORTFOLIO_URL">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
+<p>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="YOUR_PORTFOLIO_URL">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
 
 </div>
 
@@ -22,12 +23,15 @@ Building modern web applications and turning ideas into real-world products.
 
 ## 👨‍💻 About Me
 
-- 🚀 Full-Stack Developer focused on building practical web applications
-- 💻 Strong foundation in **C++, Java & JavaScript**
-- 🌐 Currently working with **React, Node.js, Express & MongoDB**
+I'm a **Full-Stack Developer** focused on building practical,
+user-friendly and scalable web applications.
+
+- 💻 Strong foundation in **C++ & Java**
+- 🌐 Building applications with **JavaScript & React**
+- ⚙️ Exploring **backend development & APIs**
 - 🧠 Practicing **Data Structures & Algorithms**
-- 📚 Exploring backend development, APIs and scalable applications
-- 🎯 Focused on building projects that solve real problems
+- 🚀 Currently turning ideas into real-world products
+- 📚 Continuously learning and improving
 
 ---
 
@@ -36,68 +40,67 @@ Building modern web applications and turning ideas into real-world products.
 ### Languages
 
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
+<img src="https://skillicons.dev/icons?i=cpp,java,js,python" />
 </p>
 
 ### Frontend
 
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45"/>
+<img src="https://skillicons.dev/icons?i=html,css,react" />
 </p>
 
 ### Backend & Database
 
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
 </p>
 
 ### Tools
 
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45"/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Project
 
-### 🛡️ WarrantyVault
+## 🛍️ AfterBuy
 
-A modern platform for managing product warranties and important purchase documents.
+> **A post-purchase management platform designed to keep everything about your purchases organized in one place.**
 
-**Tech:** React • Node.js • Express • MongoDB
+AfterBuy helps users manage the complete post-purchase journey:
 
-[🔗 Live Demo] • [📂 Source Code]
+**Purchase → Delivery → Return Window → Return → Refund → Warranty → Documents**
 
----
+### ✨ Key Features
 
-### 📊 Placement Tracker
+- 🔐 Authentication flow
+- 📊 Personalized dashboard
+- 🛒 Purchase management
+- ➕ Add and track purchases
+- 🔎 Search & filtering
+- 💾 Persistent purchase data
+- 📄 Centralized purchase information
+- 📦 Post-purchase lifecycle tracking
 
-A platform designed to help students track their placement preparation, applications and progress.
+### 🧰 Built With
 
-**Tech:** React • Node.js • Express • MongoDB
+`React` `JavaScript` `Node.js` `Express` `MongoDB`
 
-[🔗 Live Demo] • [📂 Source Code]
+<br>
 
----
+<div align="center">
 
-### 🤖 AI Project
+<a href="YOUR_AFTERBUY_LIVE_LINK">
+<img src="https://img.shields.io/badge/🌐%20Live%20Demo-Visit%20Project-2563eb?style=for-the-badge"/>
+</a>
 
-An AI-powered application focused on solving a real-world problem using modern AI technologies.
+<a href="YOUR_AFTERBUY_GITHUB_LINK">
+<img src="https://img.shields.io/badge/💻%20Source%20Code-GitHub-111827?style=for-the-badge&logo=github"/>
+</a>
 
-**Tech:** Python • AI/ML • APIs
-
-[🔗 Live Demo] • [📂 Source Code]
+</div>
 
 ---
 
@@ -105,18 +108,28 @@ An AI-powered application focused on solving a real-world problem using modern A
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kushan53&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kushan53&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushan53&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushan53&layout=compact&hide_border=true&theme=tokyonight"/>
 
 </div>
 
 ---
 
-## 🧩 What I'm Currently Working On
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=kushan53&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🧠 Currently Learning
 
 ```text
-🔨 Building       → Full-Stack Projects
-📚 Learning       → Backend & System Design
-🧠 Practicing     → Data Structures & Algorithms
-🚀 Exploring      → AI + Web Development
+Frontend Development     →  React & Modern UI
+Backend Development      →  APIs & Server Architecture
+Problem Solving          →  Data Structures & Algorithms
+Full-Stack Development   →  Building Complete Products
